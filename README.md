@@ -11,11 +11,11 @@ The goal of this project is to implement a state-of-the-art CNN models for class
 
 ## Dependencies
 
-You need Python 3, Anaconda, and Jupyter to run this project locally.
+You need Python 3, Anaconda, PyTorch, and Jupyter to run this project locally.
 
 ## Installation
 
-
+Just run `dog_app.ipynb`.
 
 ## Contributing
 
